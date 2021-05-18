@@ -1,0 +1,48 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+#stars {
+  border-collapse: collapse;
+  line-height: 41px;
+  width: 100%;
+}
+#starBox {
+  background-color: #3c3b6e;
+  color: white;
+  display: inline-block;
+  padding: 10px;
+  padding-top: 20px;
+  font-size: 50px;
+  height: 54%;
+  width: 40%;
+  position: absolute;
+}
+td {
+  border: none;
+}
+
+.sideBars {
+  width: 100.1%;
+  display: inline-block;
+}
+.bottomBars {
+  width: 100%;
+  margin-top: -3.7px;
+}
+
+.red {
+  background-color: #b22234;
+  height: 7.7vh;
+}
+.white {
+  background-color: white;
+  height: 7.7vh;
+}
+.topBar {
+  margin-top: 0px;
+}
+.middleBar {
+  margin-top: 1px;
+}
